@@ -1,0 +1,12 @@
+Repositório para a resolução dos exercícios do desafio diário de programação 2020, 
+que está sendo postado em meu instagram: /devdiario
+
+
+São separados por mês, e o nome do arquivo segue a lógica:
+ddd-[breve indicação do exercício]
+
+Lista dos exercícios propostos:
+
+[número  |  nível  |  nome]
+  001      básico     FizzBuzz
+  002      básico     Sequência de Fibonacci e Lucas
