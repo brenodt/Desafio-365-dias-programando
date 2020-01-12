@@ -7,6 +7,17 @@ ddd-[breve indicação do exercício]
 
 Lista dos exercícios propostos:
 
-[número  |  nível  |  nome]
-  001      básico     FizzBuzz
-  002      básico     Sequência de Fibonacci e Lucas
+[número  |    nível    |  nome]
+  001        básico       FizzBuzz
+  002        básico       Sequência de Fibonacci e Lucas
+  003     intermediário   Pedra, Papel, Tesoura
+  004     intermediário   Manipulando listas em Python
+  005        básico       Introdução à manipulação de texto
+  006       avançado      Algoritmo de Quicksort
+  007     intermediário   Manipulando listas em Python #2
+  008        básico       Como determinar dígitos pares
+  009     intermediário   Convertendo decimais e binários
+  010        básico       Criando dicionários com Python
+  011     intermediário   A conjectura de Collatz
+  012       avançado      Verificando se uma senha é válida
+
